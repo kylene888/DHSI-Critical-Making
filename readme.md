@@ -8,5 +8,5 @@ DH critical making things
 6. Tracery
 7. Scalar
 8. P5 Poetics
-9. [Bitsy](https://kylene888.github.io/DHSI-Critical-Making/bitsy.html)
+9. [Bitsy](https://kylene888.github.io/DHSI-Critical-Making/time_to_go_to_the_library.html)
 10. Github
