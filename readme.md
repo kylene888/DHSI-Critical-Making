@@ -1,5 +1,6 @@
-DH critical making things
+### DH critical making things
 
+![Bitsy time](https://kylene888.github.io/DHSI-Critical-Making/time_to_go_to_the_library-4.html)
 1. [Sketches](https://github.com/kylene888/DHSI-Critical-Making/blob/main/sketches.pdf)
 2. [Grids and Gestures](https://github.com/kylene888/DHSI-Critical-Making/blob/main/panels.jpg)
 3. [Physical Hypertext](https://kylene888.github.io/DHSI-Critical-Making/notecards.jpg)
