@@ -1,7 +1,7 @@
 DH critical making things
 
 1. [Sketches](https://github.com/kylene888/DHSI-Critical-Making/blob/main/sketches.pdf)
-2. Panels (grids and gestures)
+2. [Grids and Gestures](https://github.com/kylene888/DHSI-Critical-Making/blob/main/panels.jpg)
 3. Notecards and yarn
 4. Twine
 5. Cut-up Poetry
