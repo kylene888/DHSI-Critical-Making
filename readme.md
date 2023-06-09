@@ -1,6 +1,6 @@
 ### DH critical making things
 
-![Bitsy time](https://kylene888.github.io/DHSI-Critical-Making/recording.gif)
+![Bitsy time](https://kylene888.github.io/DHSI-Critical-Making/giffy.gif)
 
 1. [Sketches](https://github.com/kylene888/DHSI-Critical-Making/blob/main/sketches.pdf)
 2. [Grids and Gestures](https://github.com/kylene888/DHSI-Critical-Making/blob/main/panels.jpg)
