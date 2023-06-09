@@ -1,0 +1,120 @@
+:: StoryTitle
+Making?
+
+
+:: StoryData
+{
+  "ifid": "7C23D53D-4D8F-4894-939E-4D172E40C74F",
+  "format": "Chapbook",
+  "format-version": "1.2.3",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Go find it {"position":"1225,1175","size":"100,100"}
+LibraryCard: true
+--
+
+
+
+:: Start {"position":"600,275","size":"100,100"}
+
+LibraryCard:false
+--
+I [[walk]] into the [[critical making]] classroom
+
+[[link]]
+
+[[Bitsy->time_to_go_to_the_library-4.html]]
+
+
+:: backpack {"position":"450,550","size":"100,100"}
+Now my laptop is broken and I can't create on Twine!
+
+
+:: critical {"position":"675,800","size":"100,100"}
+My department is never going to buy this...They'll ask,
+"How does it fit within your [[scholarship]]?"
+
+
+:: critical making {"position":"662.5,400","size":"100,100"}
+I'm surprised I have to [[draw]] my partner making funny poses.
+
+
+:: draw {"position":"750,625","size":"100,100"}
+I wonder:
+
+What does that have to do with [[critical]] [[making]]?
+
+
+:: face {"position":"625,575","size":"100,100"}
+Thankfully, I'm okay and nothing is broken. I'm just a little [[embarrassed->critical making]] 
+
+
+:: hands {"position":"1075,925","size":"100,100"}
+I pose and draw my partner's [[poses->critical making]]
+
+
+:: ideas {"position":"950,1025","size":"100,100"}
+Now my head [[hurts->scholarship]]!
+
+
+:: library {"position":"1300,975","size":"100,100"}
+
+I must get a [[library card]] first. 
+
+<iframe src="https://kylene888.github.io/DHSI-Critical-Making/time_to_go_to_the_library-4.html" width="512" height="512"></iframe>
+
+[if LibraryCard]
+Yay!
+
+[else]
+Now you're enlightened!
+
+[continue]
+Yay!
+
+
+:: library card {"position":"1350,1125","size":"100,100"}
+LibraryCard: true
+--
+
+I've got the card! Now I can go to the [[library]]
+
+
+:: link {"position":"412.5,775","size":"100,100"}
+
+
+
+:: make {"position":"1200,800","size":"100,100"}
+I go to the [[library]] to explore philosophical ideas on making
+
+<iframe src="https://kylene888.github.io/DHSI-Critical-Making/time_to_go_to_the_library-4.html" width="512" height="512"></iframe>
+
+
+
+
+
+:: making {"position":"825,775","size":"100,100"}
+How do I [[make]]??
+
+With my [[hands]]?
+With my [[ideas]]?
+With my [[words]]?
+
+
+:: scholarship {"position":"625,1025","size":"100,100"}
+Now I'm having a panic attack!
+
+
+:: time_to_go_to_the_library-4.html {"position":"475,900","size":"100,100"}
+
+
+
+:: walk {"position":"537.5,400","size":"100,100"}
+But I tripped over someone's [[backpack]] and fell on my [[face]]
+
+
+:: words {"position":"800,1075","size":"100,100"}
+Get your Twine on!
